@@ -9,7 +9,7 @@ conda --version
 
 
 # if not already installed then install it from the chrome from \
-https://anadonda.com/download/success
+https://www.anaconda.com/download/success
 
 # And then add the paths to the env there will be three path ask chat gpt for that 
 
